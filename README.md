@@ -6,13 +6,13 @@ This repository contains an interactive and professional Excel dashboard develop
 
 ## Project Structure
 
-- `https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx`
+-![Excel file](https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx)
 -  – Main Excel file containing all dashboards
 - – Backend calculations and data summaries
 - – Visual analytics built from data insights
    – The base data powering the dashboard
 
-## ✨ Features
+## Features
 
 - Dynamic filters and slicers for real-time data exploration
 - Interactive charts and visuals
@@ -43,7 +43,7 @@ _![Dashboard Image](https://github.com/user-attachments/assets/c6c05b96-c246-4fb
 
 ## How to Use
 
-1. Download the `https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx` file.
+1. Download the `![excel file](https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx) file.
 2. Open in Microsoft Excel (preferably Office 365 or Excel 2016+).
 3. Enable editing and macros if prompted.
 4. Use slicers and dropdowns to filter and explore data.
