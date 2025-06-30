@@ -43,7 +43,7 @@ _![Dashboard Image](https://github.com/user-attachments/assets/c6c05b96-c246-4fb
 
 ## How to Use
 
-1. Download the  [excel fiel](https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx) file.
+1. Download the  [excel](https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx) file.
 2. Open in Microsoft Excel (preferably Office 365 or Excel 2016+).
 3. Enable editing and macros if prompted.
 4. Use slicers and dropdowns to filter and explore data.
