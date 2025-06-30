@@ -10,7 +10,7 @@ This repository contains an interactive and professional Excel dashboard develop
 -  – Main Excel file containing all dashboards
 - – Backend calculations and data summaries
 - – Visual analytics built from data insights
-   – The base data powering the dashboard
+- – The base data powering the dashboard
 
 ## Features
 
