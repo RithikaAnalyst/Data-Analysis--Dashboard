@@ -6,7 +6,7 @@ This repository contains an interactive and professional Excel dashboard develop
 
 ## Project Structure
 
--![Excel file](https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx)
+  [Excel file](https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx)
 -  – Main Excel file containing all dashboards
 - – Backend calculations and data summaries
 - – Visual analytics built from data insights
