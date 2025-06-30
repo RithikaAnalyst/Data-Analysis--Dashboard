@@ -1,15 +1,16 @@
 # Bike Sales Analysis
 
-## 📝 Overview
+## Overview
 
 This repository contains an interactive and professional Excel dashboard developed for data analysis and visualization. It helps users make data-driven decisions through dynamic charts, KPIs, and structured reporting.
 
-## 📁 Project Structure
+## Project Structure
 
-- `📂 dashboard.xlsx` – Main Excel file containing all dashboards
-- `📊 Pivot Tables` – Backend calculations and data summaries
-- `📈 Charts` – Visual analytics built from data insights
-- `📋 Raw Data` – The base data powering the dashboard
+- `https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx`
+-  – Main Excel file containing all dashboards
+- – Backend calculations and data summaries
+- – Visual analytics built from data insights
+   – The base data powering the dashboard
 
 ## ✨ Features
 
@@ -19,7 +20,7 @@ This repository contains an interactive and professional Excel dashboard develop
 - Clean and responsive layout
 - No coding required – fully Excel-based
 
-## 🧰 Tools & Techniques
+##  Tools & Techniques
 
 - Microsoft Excel
 - Pivot Tables & Charts
@@ -35,22 +36,22 @@ This repository contains an interactive and professional Excel dashboard develop
 - Marketing campaign analysis  
 - Financial forecasting and budgeting  
 
-## 📸 Preview
+##  Preview
 
 _![Dashboard Image](https://github.com/user-attachments/assets/c6c05b96-c246-4fbb-a916-b25951f9c52a)
 
 
-## 🚀 How to Use
+## How to Use
 
-1. Download the `dashboard.xlsx` file.
+1. Download the `https://github.com/RithikaAnalyst/Data-Analysis--Dashboard/blob/main/Bike%20Perchase%20project.xlsx` file.
 2. Open in Microsoft Excel (preferably Office 365 or Excel 2016+).
 3. Enable editing and macros if prompted.
 4. Use slicers and dropdowns to filter and explore data.
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 🔧 Feel free to customize the dashboard or integrate it with other tools. Contributions are welcome!
+
